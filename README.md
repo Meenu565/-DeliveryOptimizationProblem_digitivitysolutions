@@ -174,7 +174,6 @@ This project demonstrates how a Greedy Algorithm with Min-Heap can efficiently s
 By separating logic and UI:
 
 * Code remains clean
-* Easy to explain in interviews
 * Scalable for future improvements
 
 ---
