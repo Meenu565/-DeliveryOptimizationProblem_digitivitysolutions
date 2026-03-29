@@ -20,22 +20,23 @@ I used a Greedy Algorithm combined with a Min-Heap (Priority Queue) to balance t
 
 ---
 
-📸 Dashboard Screenshots
 
 📸 Dashboard Screenshots
 
-| 📋 Optimized Delivery Plan | 📊 Workload Analytics |
-|--------------------------|----------------------|
-| ![Plan Screenshot](https://github.com/user-attachments/assets/e7039ed7-0620-46e4-8a1d-b83d7b3b5e32) | ![Analytics Screenshot](https://github.com/user-attachments/assets/1fc71db9-1765-4dff-a0a8-296257e09378) |
+### 📋 Optimized Delivery Plan
+![Plan](https://github.com/user-attachments/assets/e7039ed7-0620-46e4-8a1d-b83d7b3b5e32)
 
-| 📈 Agent Deep-Dive | 📦 Dashboard Overview |
-|------------------|---------------------|
-| ![Deep Dive](https://github.com/user-attachments/assets/d0322b08-9c5c-47af-ba6c-71113e12fa42) | ![Main UI](https://github.com/user-attachments/assets/180178f9-9169-4126-a4da-d2d5af79f3b9) |
+### 📊 Workload Analytics
+![Analytics](https://github.com/user-attachments/assets/1fc71db9-1765-4dff-a0a8-296257e09378)
 
-### 📊 Additional Views
+### 📈 Agent Deep-Dive
+![Deep Dive](https://github.com/user-attachments/assets/d0322b08-9c5c-47af-ba6c-71113e12fa42)
 
-![Dashboard Extra](https://github.com/user-attachments/assets/4418702d-273f-45dc-8fd9-ae0f6068131f)
+### 📦 Dashboard Overview
+![Overview](https://github.com/user-attachments/assets/180178f9-9169-4126-a4da-d2d5af79f3b9)
 
+### 📊 Additional View
+![Extra](https://github.com/user-attachments/assets/4418702d-273f-45dc-8fd9-ae0f6068131f)
 ---
 
 🧠 The Algorithm (How it Works)
