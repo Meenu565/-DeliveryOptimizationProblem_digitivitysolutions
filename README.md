@@ -23,20 +23,19 @@ I used a Greedy Algorithm combined with a Min-Heap (Priority Queue) to balance t
 
 📸 Dashboard Screenshots
 
+📸 Dashboard Screenshots
+
 ### 📋 Optimized Delivery Plan
-![Plan](https://github.com/user-attachments/assets/e7039ed7-0620-46e4-8a1d-b83d7b3b5e32)
+![Plan](results/img1.png)
 
 ### 📊 Workload Analytics
-![Analytics](https://github.com/user-attachments/assets/1fc71db9-1765-4dff-a0a8-296257e09378)
+![Analytics](results/img2.png)
 
 ### 📈 Agent Deep-Dive
-![Deep Dive](https://github.com/user-attachments/assets/d0322b08-9c5c-47af-ba6c-71113e12fa42)
+![Deep Dive](results/img3.png)
 
 ### 📦 Dashboard Overview
-![Overview](https://github.com/user-attachments/assets/180178f9-9169-4126-a4da-d2d5af79f3b9)
-
-### 📊 Additional View
-![Extra](https://github.com/user-attachments/assets/4418702d-273f-45dc-8fd9-ae0f6068131f)
+![Overview](results/img4.png)
 ---
 
 🧠 The Algorithm (How it Works)
