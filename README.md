@@ -13,13 +13,13 @@ I used a Greedy Algorithm combined with a Min-Heap (Priority Queue) to balance t
 ---
 ## 📸 Dashboard Preview
 
-![Churn Distribution](Results/img1.png)
+![Churn Distribution](results/img1.png)
 
-![Model Comparison](Results/img2.png)
+![Model Comparison](results/img2.png)
 
-![ROC Curves](Results/img3.png)
+![ROC Curves](results/img3.png)
 
-![Confusion Matrices](Results/img4.png)
+![Confusion Matrices](results/img4.png)
 
 🧠 The Algorithm (How it Works)
 
