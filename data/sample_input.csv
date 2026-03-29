@@ -1,0 +1,11 @@
+Location_ID,Distance,Priority
+LOC_001,15,High
+LOC_002,10,Medium
+LOC_003,25,Low
+LOC_004,5,High
+LOC_005,12,High
+LOC_006,20,Medium
+LOC_007,8,Low
+LOC_008,18,Medium
+LOC_009,30,High
+LOC_010,7,Low
