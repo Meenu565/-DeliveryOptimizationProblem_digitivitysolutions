@@ -22,18 +22,19 @@ I used a Greedy Algorithm combined with a Min-Heap (Priority Queue) to balance t
 
 📸 Dashboard Screenshots
 
+📸 Dashboard Screenshots
+
 | 📋 Optimized Delivery Plan | 📊 Workload Analytics |
 |--------------------------|----------------------|
-| ![Plan Screenshot](https://via.placeholder.com/400x220?text=Insert+Plan+Tab+Screenshot) | ![Analytics Screenshot](https://via.placeholder.com/400x220?text=Insert+Analytics+Tab+Screenshot) |
+| ![Plan Screenshot](https://github.com/user-attachments/assets/e7039ed7-0620-46e4-8a1d-b83d7b3b5e32) | ![Analytics Screenshot](https://github.com/user-attachments/assets/1fc71db9-1765-4dff-a0a8-296257e09378) |
 
 | 📈 Agent Deep-Dive | 📦 Dashboard Overview |
 |------------------|---------------------|
-| ![Deep Dive](https://via.placeholder.com/400x220?text=Insert+Deep-Dive+Tab+Screenshot) | ![Main UI](https://via.placeholder.com/400x220?text=Insert+Main+UI+Screenshot) |
-<img width="1903" height="1057" alt="image" src="https://github.com/user-attachments/assets/e7039ed7-0620-46e4-8a1d-b83d7b3b5e32" />
-<img width="1911" height="1073" alt="image" src="https://github.com/user-attachments/assets/1fc71db9-1765-4dff-a0a8-296257e09378" />
-<img width="1908" height="1063" alt="image" src="https://github.com/user-attachments/assets/d0322b08-9c5c-47af-ba6c-71113e12fa42" />
-<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/180178f9-9169-4126-a4da-d2d5af79f3b9" />
-<img width="1896" height="1050" alt="image" src="https://github.com/user-attachments/assets/4418702d-273f-45dc-8fd9-ae0f6068131f" />
+| ![Deep Dive](https://github.com/user-attachments/assets/d0322b08-9c5c-47af-ba6c-71113e12fa42) | ![Main UI](https://github.com/user-attachments/assets/180178f9-9169-4126-a4da-d2d5af79f3b9) |
+
+### 📊 Additional Views
+
+![Dashboard Extra](https://github.com/user-attachments/assets/4418702d-273f-45dc-8fd9-ae0f6068131f)
 
 ---
 
