@@ -11,7 +11,15 @@ This project is an automated delivery dispatching tool designed to assign tasks 
 I used a Greedy Algorithm combined with a Min-Heap (Priority Queue) to balance the total travel distance across all agents efficiently.
 
 ---
+## 📸 Dashboard Preview
 
+![Churn Distribution](Results/img1.png)
+
+![Model Comparison](Results/img2.png)
+
+![ROC Curves](Results/img3.png)
+
+![Confusion Matrices](Results/img4.png)
 
 🧠 The Algorithm (How it Works)
 
