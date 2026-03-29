@@ -12,31 +12,6 @@ I used a Greedy Algorithm combined with a Min-Heap (Priority Queue) to balance t
 
 ---
 
-📽️ Project Demo
-
-> [!IMPORTANT]  
-> 🔗 INSERT LINK TO YOUR VIDEO DEMO HERE  
-*(Tip: Record a short clip showing CSV upload and dashboard usage.)*
-
----
-
-
-📸 Dashboard Screenshots
-
-📸 Dashboard Screenshots
-
-### 📋 Optimized Delivery Plan
-![Plan](results/img1.png)
-
-### 📊 Workload Analytics
-![Analytics](results/img2.png)
-
-### 📈 Agent Deep-Dive
-![Deep Dive](results/img3.png)
-
-### 📦 Dashboard Overview
-![Overview](results/img4.png)
----
 
 🧠 The Algorithm (How it Works)
 
